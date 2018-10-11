@@ -29,5 +29,5 @@ test
 test  
 
 **What's the difference?**  
-First try returns function, so node.js execute module every time when you call.  
-Second try returns object, so node.js execute module only one time when you call first time and will return object when you call module later.
+- First try returns function, so node.js execute module every time when you call.  
+- Second try returns object, so node.js execute module only one time when you call first time and will return object when you call module later.
